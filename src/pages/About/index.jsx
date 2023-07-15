@@ -3,8 +3,7 @@ import Breadcrumb from "../../components/Layout/Breadcrumb";
 import Footer from "../../components/Layout/Footer";
 import Header from "../../components/Layout/Header";
 import LocationModal from '../../components/LocationModal'
-import TapT
-
+import TapToStart from '../../components/TapToStart'
 /* eslint-disable react/no-unescaped-entities */
 export default function About() {
   return (
