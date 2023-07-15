@@ -1,6 +1,7 @@
+/* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
 
-export default function Product({ name, slug, desc, price, img }) {
+export default function Product({ title, slug, desc, price, img }) {
     return (
         <>
             <div className="product-box-3 h-100 wow fadeInUp">
@@ -10,7 +11,7 @@ export default function Product({ name, slug, desc, price, img }) {
                             <img
                                 src={img}
                                 className="img-fluid blur-up lazyload"
-                                alt={name}
+                                alt={title}
                             />
                         </Link>
                         <ul className="product-option">
@@ -53,7 +54,7 @@ export default function Product({ name, slug, desc, price, img }) {
                         <span className="span-name">Vegetable</span>
                         <a href="product-left-thumbnail">
                             <h5 className="name">
-                                {name}
+                                {title}
                             </h5>
                         </a>
                         <p className="text-content mt-1 mb-2 product-content">{desc}</p>
@@ -79,7 +80,7 @@ export default function Product({ name, slug, desc, price, img }) {
                         </div>
                         <h6 className="unit">250 ml</h6>
                         <h5 className="price">
-                            <span className="theme-color">$08.02</span>{" "}
+                            <span className="theme-color">{price}</span>{" "}
                             <del>$15.15</del>
                         </h5>
                         <div className="add-to-cart-box bg-white">
