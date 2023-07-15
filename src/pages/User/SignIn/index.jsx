@@ -67,7 +67,7 @@ export default function SignIn() {
                             Remember me
                           </label>
                         </div>
-                        <a href="forgot.html" className="forgot-password">
+                        <a href="forgot" className="forgot-password">
                           Forgot Password?
                         </a>
                       </div>
@@ -120,7 +120,7 @@ export default function SignIn() {
                 </div>
                 <div className="sign-up-box">
                   <h4>Don't have an account?</h4>
-                  <a href="sign-up.html">Sign Up</a>
+                  <a href="sign-up">Sign Up</a>
                 </div>
               </div>
             </div>

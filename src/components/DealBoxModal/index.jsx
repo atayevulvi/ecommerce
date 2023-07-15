@@ -1,3 +1,9 @@
+import img1 from '../../assets/images/vegetable/product/10.png';
+import img2 from '../../assets/images/vegetable/product/11.png';
+import img3 from '../../assets/images/vegetable/product/12.png';
+import img4 from '../../assets/images/vegetable/product/13.png';
+
+
 export default function DealBoxModal() {
     return (
         <>
@@ -31,14 +37,14 @@ export default function DealBoxModal() {
                                 <ul className="deal-offer-list">
                                     <li className="list-1">
                                         <div className="deal-offer-contain">
-                                            <a href="shop-left-sidebar.html" className="deal-image">
+                                            <a href="shop-left-sidebar" className="deal-image">
                                                 <img
-                                                    src="../assets/images/vegetable/product/10.png"
+                                                    src={img1}
                                                     className="blur-up lazyload"
                                                     alt=""
                                                 />
                                             </a>
-                                            <a href="shop-left-sidebar.html" className="deal-contain">
+                                            <a href="shop-left-sidebar" className="deal-contain">
                                                 <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                                 <h6>
                                                     $52.57 <del>57.62</del> <span>500 G</span>
@@ -48,14 +54,14 @@ export default function DealBoxModal() {
                                     </li>
                                     <li className="list-2">
                                         <div className="deal-offer-contain">
-                                            <a href="shop-left-sidebar.html" className="deal-image">
+                                            <a href="shop-left-sidebar" className="deal-image">
                                                 <img
-                                                    src="../assets/images/vegetable/product/11.png"
+                                                    src={img2}
                                                     className="blur-up lazyload"
                                                     alt=""
                                                 />
                                             </a>
-                                            <a href="shop-left-sidebar.html" className="deal-contain">
+                                            <a href="shop-left-sidebar" className="deal-contain">
                                                 <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                                 <h6>
                                                     $52.57 <del>57.62</del> <span>500 G</span>
@@ -65,14 +71,14 @@ export default function DealBoxModal() {
                                     </li>
                                     <li className="list-3">
                                         <div className="deal-offer-contain">
-                                            <a href="shop-left-sidebar.html" className="deal-image">
+                                            <a href="shop-left-sidebar" className="deal-image">
                                                 <img
-                                                    src="../assets/images/vegetable/product/12.png"
+                                                    src={img3}
                                                     className="blur-up lazyload"
                                                     alt=""
                                                 />
                                             </a>
-                                            <a href="shop-left-sidebar.html" className="deal-contain">
+                                            <a href="shop-left-sidebar" className="deal-contain">
                                                 <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                                 <h6>
                                                     $52.57 <del>57.62</del> <span>500 G</span>
@@ -82,14 +88,14 @@ export default function DealBoxModal() {
                                     </li>
                                     <li className="list-1">
                                         <div className="deal-offer-contain">
-                                            <a href="shop-left-sidebar.html" className="deal-image">
+                                            <a href="shop-left-sidebar" className="deal-image">
                                                 <img
-                                                    src="../assets/images/vegetable/product/13.png"
+                                                    src={img4}
                                                     className="blur-up lazyload"
                                                     alt=""
                                                 />
                                             </a>
-                                            <a href="shop-left-sidebar.html" className="deal-contain">
+                                            <a href="shop-left-sidebar" className="deal-contain">
                                                 <h5>Blended Instant Coffee 50 g Buy 1 Get 1 Free</h5>
                                                 <h6>
                                                     $52.57 <del>57.62</del> <span>500 G</span>

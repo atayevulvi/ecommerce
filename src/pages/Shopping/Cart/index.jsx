@@ -23,7 +23,7 @@ export default function Cart() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="product-image"
                             >
                               <img
@@ -35,7 +35,7 @@ export default function Cart() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">
+                                  <a href="product-left-thumbnail">
                                     Bell pepper
                                   </a>
                                 </li>
@@ -168,7 +168,7 @@ export default function Cart() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="product-image"
                             >
                               <img
@@ -180,7 +180,7 @@ export default function Cart() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">Eggplant</a>
+                                  <a href="product-left-thumbnail">Eggplant</a>
                                 </li>
                                 <li className="text-content">
                                   <span className="text-title">Sold By:</span> Nesto
@@ -312,7 +312,7 @@ export default function Cart() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="product-image"
                             >
                               <img
@@ -324,7 +324,7 @@ export default function Cart() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">Onion</a>
+                                  <a href="product-left-thumbnail">Onion</a>
                                 </li>
                                 <li className="text-content">
                                   <span className="text-title">Sold By:</span>{" "}

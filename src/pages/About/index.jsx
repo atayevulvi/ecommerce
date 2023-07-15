@@ -792,7 +792,7 @@ export default function About() {
                   <div className="blog-box">
                     <div className="blog-box-image">
                       <div className="blog-image">
-                        <a href="blog-detail.html" className="rounded-3">
+                        <a href="blog-detail" className="rounded-3">
                           <img
                             src="../assets/images/veg-2/blog/1.jpg"
                             className="bg-img blur-up lazyload"
@@ -801,7 +801,7 @@ export default function About() {
                         </a>
                       </div>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail d-block">
+                    <a href="blog-detail" className="blog-detail d-block">
                       <h6>Farmart</h6>
                       <h5>Fresh Meat Saugage</h5>
                     </a>
@@ -811,7 +811,7 @@ export default function About() {
                   <div className="blog-box">
                     <div className="blog-box-image">
                       <div className="blog-image">
-                        <a href="blog-detail.html" className="rounded-3">
+                        <a href="blog-detail" className="rounded-3">
                           <img
                             src="../assets/images/veg-2/blog/2.jpg"
                             className="bg-img blur-up lazyload"
@@ -820,7 +820,7 @@ export default function About() {
                         </a>
                       </div>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail d-block">
+                    <a href="blog-detail" className="blog-detail d-block">
                       <h6>Soda Brand</h6>
                       <h5>Soda 500ml - 20% OFF</h5>
                     </a>
@@ -830,7 +830,7 @@ export default function About() {
                   <div className="blog-box">
                     <div className="blog-box-image">
                       <div className="blog-image">
-                        <a href="blog-detail.html" className="rounded-3">
+                        <a href="blog-detail" className="rounded-3">
                           <img
                             src="../assets/images/veg-2/blog/3.jpg"
                             className="bg-img blur-up lazyload"
@@ -839,7 +839,7 @@ export default function About() {
                         </a>
                       </div>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail d-block">
+                    <a href="blog-detail" className="blog-detail d-block">
                       <h6>Beer Brand</h6>
                       <h5>Soda 500ml - 20% OFF</h5>
                     </a>
@@ -849,7 +849,7 @@ export default function About() {
                   <div className="blog-box">
                     <div className="blog-box-image">
                       <div className="blog-image">
-                        <a href="blog-detail.html" className="rounded-3">
+                        <a href="blog-detail" className="rounded-3">
                           <img
                             src="../assets/images/veg-2/blog/4.jpg"
                             className="bg-img blur-up lazyload"
@@ -858,7 +858,7 @@ export default function About() {
                         </a>
                       </div>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail d-block">
+                    <a href="blog-detail" className="blog-detail d-block">
                       <h6>Beer Brand</h6>
                       <h5>Fresh Beer -30% OFF</h5>
                     </a>
@@ -867,7 +867,7 @@ export default function About() {
                 <div>
                   <div className="blog-box">
                     <div className="blog-image">
-                      <a href="blog-detail.html" className="rounded-3">
+                      <a href="blog-detail" className="rounded-3">
                         <img
                           src="../assets/images/veg-2/blog/5.jpg"
                           className="bg-img blur-up lazyload"
@@ -875,7 +875,7 @@ export default function About() {
                         />
                       </a>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail d-block">
+                    <a href="blog-detail" className="blog-detail d-block">
                       <h6>Milk Brand</h6>
                       <h5>Fresh Milk</h5>
                     </a>

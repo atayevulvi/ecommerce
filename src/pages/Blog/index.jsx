@@ -20,7 +20,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/1.jpg"
                           className="bg-img blur-up lazyload"
@@ -37,7 +37,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Mark J. Speight</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>one pot creamy mediterranean chicken pasta cream.</h3>
                       </a>
                       <button
@@ -52,7 +52,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.05s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/2.jpg"
                           className="bg-img"
@@ -69,7 +69,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>rebeus hagrid</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>Crispy Frozen Vegetable is the on the Tempura.</h3>
                       </a>
                       <button
@@ -84,7 +84,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.1s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/3.jpg"
                           className="bg-img blur-up lazyload"
@@ -104,7 +104,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Chris C. Hall</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           How to start regrowing green onions and other vegetables.
                         </h3>
@@ -121,7 +121,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.15s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/4.jpg"
                           className="bg-img blur-up lazyload"
@@ -138,7 +138,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>James M. Martin</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>Starting a vegetable garden: the basics.</h3>
                       </a>
                       <button
@@ -153,7 +153,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.2s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/5.jpg"
                           className="bg-img blur-up lazyload"
@@ -170,7 +170,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Cecil M. Levis</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           Adapt this simple pasta salad to whatever vegetable.
                         </h3>
@@ -187,7 +187,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.25s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/1.jpg"
                           className="bg-img blur-up lazyload"
@@ -204,7 +204,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Mary R. Hernandez</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           With chefs idle and vegetables rotting, China's virus-hit.
                         </h3>
@@ -221,7 +221,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.3s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/2.jpg"
                           className="bg-img blur-up lazyload"
@@ -238,7 +238,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Cheryl D. Moser</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           Turn that bowl of pasta into a supercharged veggie
                           vehicle.
@@ -256,7 +256,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.35s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/3.jpg"
                           className="bg-img blur-up lazyload"
@@ -273,7 +273,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Mina M. Short</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>Health, care and skin on the for your organic.</h3>
                       </a>
                       <button
@@ -288,7 +288,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.4s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/4.jpg"
                           className="bg-img blur-up lazyload"
@@ -305,7 +305,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Marie S. Santiago</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           Fresh organicsm, brand, fresh and picnic place awesome.
                         </h3>
@@ -322,7 +322,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.45s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/3.jpg"
                           className="bg-img blur-up lazyload"
@@ -342,7 +342,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Mark J. Speight</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           With chefs idle and vegetables rotting, China's virus-hit.
                         </h3>
@@ -359,7 +359,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.5s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/4.jpg"
                           className="bg-img blur-up lazyload"
@@ -376,7 +376,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>Chris C. Hall</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           Vegina good quality special liquide fesh vagitables.
                         </h3>
@@ -393,7 +393,7 @@ export default function Blog() {
                 <div className="col-xxl-4 col-sm-6">
                   <div className="blog-box wow fadeInUp" data-wow-delay="0.55s">
                     <div className="blog-image">
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <img
                           src="../assets/images/inner-page/blog/5.jpg"
                           className="bg-img blur-up lazyload"
@@ -410,7 +410,7 @@ export default function Blog() {
                           <i data-feather="user" /> <span>James M. Martin</span>
                         </span>
                       </div>
-                      <a href="blog-detail.html">
+                      <a href="blog-detail">
                         <h3>
                           How to freeze fresh vegetables while preserving their best
                           qualities.
@@ -497,7 +497,7 @@ export default function Blog() {
                       <div className="accordion-body pt-0">
                         <div className="recent-post-box">
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/1.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -505,7 +505,7 @@ export default function Blog() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Green onion knife and salad placed
                                 </h5>
@@ -516,7 +516,7 @@ export default function Blog() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/2.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -524,7 +524,7 @@ export default function Blog() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Health and skin for your organic
                                 </h5>
@@ -535,7 +535,7 @@ export default function Blog() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/3.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -543,7 +543,7 @@ export default function Blog() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Organics mix masala fresh &amp; soft
                                 </h5>
@@ -554,7 +554,7 @@ export default function Blog() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/4.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -562,7 +562,7 @@ export default function Blog() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Fresh organics brand and picnic
                                 </h5>
@@ -598,7 +598,7 @@ export default function Blog() {
                         <div className="category-list-box">
                           <ul>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Latest Recipes</h5>
                                   <span>10</span>
@@ -606,7 +606,7 @@ export default function Blog() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Diet Food</h5>
                                   <span>6</span>
@@ -614,7 +614,7 @@ export default function Blog() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Low calorie Items</h5>
                                   <span>8</span>
@@ -622,7 +622,7 @@ export default function Blog() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Cooking Method</h5>
                                   <span>9</span>
@@ -630,7 +630,7 @@ export default function Blog() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Dairy Free</h5>
                                   <span>12</span>
@@ -638,7 +638,7 @@ export default function Blog() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Vegetarian Food</h5>
                                   <span>10</span>
@@ -729,7 +729,7 @@ export default function Blog() {
                           <li>
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -740,7 +740,7 @@ export default function Blog() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Meatigo Premium Goat Curry
                                     </h6>
@@ -754,7 +754,7 @@ export default function Blog() {
                           <li>
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -765,7 +765,7 @@ export default function Blog() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Dates Medjoul Premium Imported
                                     </h6>
@@ -779,7 +779,7 @@ export default function Blog() {
                           <li className="mb-0">
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -790,7 +790,7 @@ export default function Blog() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Apple Red Premium Imported
                                     </h6>

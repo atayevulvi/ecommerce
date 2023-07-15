@@ -4,7 +4,7 @@ export default function MobileMenu() {
             <div className="mobile-menu d-md-none d-block mobile-cart">
                 <ul>
                     <li className="active">
-                        <a href="index.html">
+                        <a href="index">
                             <i className="iconly-Home icli" />
                             <span>Home</span>
                         </a>
@@ -16,19 +16,19 @@ export default function MobileMenu() {
                         </a>
                     </li>
                     <li>
-                        <a href="search.html" className="search-box">
+                        <a href="search" className="search-box">
                             <i className="iconly-Search icli" />
                             <span>Search</span>
                         </a>
                     </li>
                     <li>
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                             <i className="iconly-Heart icli" />
                             <span>My Wish</span>
                         </a>
                     </li>
                     <li>
-                        <a href="cart.html">
+                        <a href="cart">
                             <i className="iconly-Bag-2 icli fly-cate" />
                             <span>Cart</span>
                         </a>

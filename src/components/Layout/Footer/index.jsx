@@ -66,7 +66,7 @@ export default function Footer() {
                             <div className="col-xl-3 col-lg-4 col-sm-6">
                                 <div className="footer-logo">
                                     <div className="theme-logo">
-                                        <a href="index.html">
+                                        <a href="index">
                                             <img
                                                 src="../assets/images/logo/1.png"
                                                 className="blur-up lazyload"
@@ -101,32 +101,32 @@ export default function Footer() {
                                 <div className="footer-contain">
                                     <ul>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Vegetables &amp; Fruit
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Beverages
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Meats &amp; Seafood
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Frozen Foods
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Biscuits &amp; Snacks
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Grocery &amp; Staples
                                             </a>
                                         </li>
@@ -140,27 +140,27 @@ export default function Footer() {
                                 <div className="footer-contain">
                                     <ul>
                                         <li>
-                                            <a href="index.html" className="text-content">
+                                            <a href="index" className="text-content">
                                                 Home
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar.html" className="text-content">
+                                            <a href="shop-left-sidebar" className="text-content">
                                                 Shop
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="about-us.html" className="text-content">
+                                            <a href="about-us" className="text-content">
                                                 About Us
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="blog-list.html" className="text-content">
+                                            <a href="blog-list" className="text-content">
                                                 Blog
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="contact-us.html" className="text-content">
+                                            <a href="contact-us" className="text-content">
                                                 Contact Us
                                             </a>
                                         </li>
@@ -174,32 +174,32 @@ export default function Footer() {
                                 <div className="footer-contain">
                                     <ul>
                                         <li>
-                                            <a href="order-success.html" className="text-content">
+                                            <a href="order-success" className="text-content">
                                                 Your Order
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="user-dashboard.html" className="text-content">
+                                            <a href="user-dashboard" className="text-content">
                                                 Your Account
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="order-tracking.html" className="text-content">
+                                            <a href="order-tracking" className="text-content">
                                                 Track Order
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="wishlist.html" className="text-content">
+                                            <a href="wishlist" className="text-content">
                                                 Your Wishlist
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="search.html" className="text-content">
+                                            <a href="search" className="text-content">
                                                 Search
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="faq.html" className="text-content">
+                                            <a href="faq" className="text-content">
                                                 FAQ
                                             </a>
                                         </li>

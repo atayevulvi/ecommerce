@@ -10,7 +10,7 @@ export default function Breadcrumb() {
                 <nav>
                   <ol className="breadcrumb mb-0">
                     <li className="breadcrumb-item">
-                      <a href="index.html">
+                      <a href="index">
                         <i className="fa-solid fa-house" />
                       </a>
                     </li>

@@ -124,7 +124,7 @@ export default function SignUp() {
                 </div>
                 <div className="sign-up-box">
                   <h4>Already have an account?</h4>
-                  <a href="login.html">Log In</a>
+                  <a href="login">Log In</a>
                 </div>
               </div>
             </div>

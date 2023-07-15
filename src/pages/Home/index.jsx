@@ -63,7 +63,7 @@ export default function Home() {
                         <p className="w-75">
                           We deliver organic vegetables &amp; fruits
                         </p>
-                        <a href="shop-left-sidebar.html" className="shop-button">
+                        <a href="shop-left-sidebar" className="shop-button">
                           Shop Now <i className="fa-solid fa-right-long" />
                         </a>
                       </div>
@@ -84,7 +84,7 @@ export default function Home() {
                         <p className="organic">
                           Start your daily shopping with some Organic food
                         </p>
-                        <a href="shop-left-sidebar.html" className="shop-button">
+                        <a href="shop-left-sidebar" className="shop-button">
                           Shop Now <i className="fa-solid fa-right-long" />
                         </a>
                       </div>
@@ -117,7 +117,7 @@ export default function Home() {
                     </h6>
                   </div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="banner-button text-white"
                   >
                     Shop Now <i className="fa-solid fa-right-long ms-2" />
@@ -139,7 +139,7 @@ export default function Home() {
                     <h6 className="text-content">Fresh Vegetables</h6>
                   </div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="banner-button text-white"
                   >
                     Shop Now <i className="fa-solid fa-right-long ms-2" />
@@ -161,7 +161,7 @@ export default function Home() {
                     <h6 className="text-content">Delivered to Your Home</h6>
                   </div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="banner-button text-white"
                   >
                     Shop Now <i className="fa-solid fa-right-long ms-2" />
@@ -183,7 +183,7 @@ export default function Home() {
                     <h6 className="text-content">Nuts &amp; Snacks</h6>
                   </div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="banner-button text-white"
                   >
                     Shop Now <i className="fa-solid fa-right-long ms-2" />
@@ -212,7 +212,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">
+                          <a href="shop-left-sidebar">
                             Vegetables &amp; Fruit
                           </a>
                         </h5>
@@ -226,7 +226,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Beverages</a>
+                          <a href="shop-left-sidebar">Beverages</a>
                         </h5>
                       </div>
                     </li>
@@ -238,7 +238,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Meats &amp; Seafood</a>
+                          <a href="shop-left-sidebar">Meats &amp; Seafood</a>
                         </h5>
                       </div>
                     </li>
@@ -250,7 +250,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Breakfast &amp; Dairy</a>
+                          <a href="shop-left-sidebar">Breakfast &amp; Dairy</a>
                         </h5>
                       </div>
                     </li>
@@ -262,7 +262,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Frozen Foods</a>
+                          <a href="shop-left-sidebar">Frozen Foods</a>
                         </h5>
                       </div>
                     </li>
@@ -274,7 +274,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Biscuits &amp; Snacks</a>
+                          <a href="shop-left-sidebar">Biscuits &amp; Snacks</a>
                         </h5>
                       </div>
                     </li>
@@ -286,7 +286,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Grocery &amp; Staples</a>
+                          <a href="shop-left-sidebar">Grocery &amp; Staples</a>
                         </h5>
                       </div>
                     </li>
@@ -298,7 +298,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">
+                          <a href="shop-left-sidebar">
                             Wines &amp; Alcohol Drinks
                           </a>
                         </h5>
@@ -312,7 +312,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Milk &amp; Dairies</a>
+                          <a href="shop-left-sidebar">Milk &amp; Dairies</a>
                         </h5>
                       </div>
                     </li>
@@ -324,7 +324,7 @@ export default function Home() {
                           alt=""
                         />
                         <h5>
-                          <a href="shop-left-sidebar.html">Pet Foods</a>
+                          <a href="shop-left-sidebar">Pet Foods</a>
                         </h5>
                       </div>
                     </li>
@@ -333,21 +333,21 @@ export default function Home() {
                     <li>
                       <div className="category-list">
                         <h5 className="ms-0 text-title">
-                          <a href="shop-left-sidebar.html">Value of the Day</a>
+                          <a href="shop-left-sidebar">Value of the Day</a>
                         </h5>
                       </div>
                     </li>
                     <li>
                       <div className="category-list">
                         <h5 className="ms-0 text-title">
-                          <a href="shop-left-sidebar.html">Top 50 Offers</a>
+                          <a href="shop-left-sidebar">Top 50 Offers</a>
                         </h5>
                       </div>
                     </li>
                     <li className="mb-0">
                       <div className="category-list">
                         <h5 className="ms-0 text-title">
-                          <a href="shop-left-sidebar.html">New Arrivals</a>
+                          <a href="shop-left-sidebar">New Arrivals</a>
                         </h5>
                       </div>
                     </li>
@@ -412,7 +412,7 @@ export default function Home() {
                       <li>
                         <div className="offer-product">
                           <a
-                            href="product-left-thumbnail.html"
+                            href="product-left-thumbnail"
                             className="offer-image"
                           >
                             <img
@@ -424,7 +424,7 @@ export default function Home() {
                           <div className="offer-detail">
                             <div>
                               <a
-                                href="product-left-thumbnail.html"
+                                href="product-left-thumbnail"
                                 className="text-title"
                               >
                                 <h6 className="name">Meatigo Premium Goat Curry</h6>
@@ -438,7 +438,7 @@ export default function Home() {
                       <li>
                         <div className="offer-product">
                           <a
-                            href="product-left-thumbnail.html"
+                            href="product-left-thumbnail"
                             className="offer-image"
                           >
                             <img
@@ -450,7 +450,7 @@ export default function Home() {
                           <div className="offer-detail">
                             <div>
                               <a
-                                href="product-left-thumbnail.html"
+                                href="product-left-thumbnail"
                                 className="text-title"
                               >
                                 <h6 className="name">
@@ -466,7 +466,7 @@ export default function Home() {
                       <li>
                         <div className="offer-product">
                           <a
-                            href="product-left-thumbnail.html"
+                            href="product-left-thumbnail"
                             className="offer-image"
                           >
                             <img
@@ -478,7 +478,7 @@ export default function Home() {
                           <div className="offer-detail">
                             <div>
                               <a
-                                href="product-left-thumbnail.html"
+                                href="product-left-thumbnail"
                                 className="text-title"
                               >
                                 <h6 className="name">Good Life Walnut Kernels</h6>
@@ -492,7 +492,7 @@ export default function Home() {
                       <li className="mb-0">
                         <div className="offer-product">
                           <a
-                            href="product-left-thumbnail.html"
+                            href="product-left-thumbnail"
                             className="offer-image"
                           >
                             <img
@@ -504,7 +504,7 @@ export default function Home() {
                           <div className="offer-detail">
                             <div>
                               <a
-                                href="product-left-thumbnail.html"
+                                href="product-left-thumbnail"
                                 className="text-title"
                               >
                                 <h6 className="name">Apple Red Premium Imported</h6>
@@ -618,7 +618,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/1.png"
                                   className="img-fluid blur-up lazyload"
@@ -644,7 +644,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -654,7 +654,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -663,7 +663,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Fantasy Crunchy Choco Chip Cookies
                                 </h6>
@@ -738,7 +738,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/2.png"
                                   className="img-fluid blur-up lazyload"
@@ -764,7 +764,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -774,7 +774,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -783,7 +783,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Cold Brew Coffee Instant Coffee 50 g
                                 </h6>
@@ -862,7 +862,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/3.png"
                                   className="img-fluid blur-up lazyload"
@@ -888,7 +888,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -898,7 +898,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -907,7 +907,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Peanut Butter Bite Premium Butter Cookies 600 g
                                 </h6>
@@ -985,7 +985,7 @@ export default function Home() {
                               <span>NEW</span>
                             </div>
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/4.png"
                                   className="img-fluid blur-up lazyload"
@@ -1011,7 +1011,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1021,7 +1021,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1030,7 +1030,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   SnackAmor Combo Pack of Jowar Stick and Jowar
                                   Chips
@@ -1110,7 +1110,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/5.png"
                                   className="img-fluid blur-up lazyload"
@@ -1136,7 +1136,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1146,7 +1146,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1155,7 +1155,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Yumitos Chilli Sprinkled Potato Chips 100 g
                                 </h6>
@@ -1230,7 +1230,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/6.png"
                                   className="img-fluid blur-up lazyload"
@@ -1256,7 +1256,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1266,7 +1266,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1275,7 +1275,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Neu Farm Unpolished Desi Toor Dal 1 kg
                                 </h6>
@@ -1357,7 +1357,7 @@ export default function Home() {
                               <span>NEW</span>
                             </div>
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/7.png"
                                   className="img-fluid blur-up lazyload"
@@ -1383,7 +1383,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1393,7 +1393,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1402,7 +1402,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   healthy Long Life Toned Milk 1 L
                                 </h6>
@@ -1477,7 +1477,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/8.png"
                                   className="img-fluid blur-up lazyload"
@@ -1503,7 +1503,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1513,7 +1513,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1522,7 +1522,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Dog Treats Natural Yak Milk Bars For Small Dogs
                                   100g
@@ -1602,7 +1602,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/9.png"
                                   className="img-fluid blur-up lazyload"
@@ -1628,7 +1628,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1638,7 +1638,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1647,7 +1647,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Raw Mutton Leg, Packaging 5 Kg
                                 </h6>
@@ -1722,7 +1722,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/10.png"
                                   className="img-fluid blur-up lazyload"
@@ -1748,7 +1748,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1758,7 +1758,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1767,7 +1767,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Blended Instant Coffee 50 g Buy 1 Get 1 Free
                                 </h6>
@@ -1846,7 +1846,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/3.png"
                                   className="img-fluid blur-up lazyload"
@@ -1872,7 +1872,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -1882,7 +1882,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -1891,7 +1891,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Peanut Butter Bite Premium Butter Cookies 600 g
                                 </h6>
@@ -1966,7 +1966,7 @@ export default function Home() {
                         <div className="col-12 px-0">
                           <div className="product-box">
                             <div className="product-image">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <img
                                   src="../assets/images/vegetable/product/5.png"
                                   className="img-fluid blur-up lazyload"
@@ -1992,7 +1992,7 @@ export default function Home() {
                                   data-bs-placement="top"
                                   title="Compare"
                                 >
-                                  <a href="compare.html">
+                                  <a href="compare">
                                     <i data-feather="refresh-cw" />
                                   </a>
                                 </li>
@@ -2002,7 +2002,7 @@ export default function Home() {
                                   title="Wishlist"
                                 >
                                   <a
-                                    href="wishlist.html"
+                                    href="wishlist"
                                     className="notifi-wishlist"
                                   >
                                     <i data-feather="heart" />
@@ -2011,7 +2011,7 @@ export default function Home() {
                               </ul>
                             </div>
                             <div className="product-detail">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h6 className="name">
                                   Yumitos Chilli Sprinkled Potato Chips 100 g
                                 </h6>
@@ -2100,7 +2100,7 @@ export default function Home() {
               <div className="category-slider-2 product-wrapper no-arrow">
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2115,7 +2115,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2130,7 +2130,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2145,7 +2145,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2160,7 +2160,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2175,7 +2175,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2190,7 +2190,7 @@ export default function Home() {
                 </div>
                 <div>
                   <a
-                    href="shop-left-sidebar.html"
+                    href="shop-left-sidebar"
                     className="category-box category-dark"
                   >
                     <div>
@@ -2268,7 +2268,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/1.png"
                                 className="img-fluid blur-up lazyload"
@@ -2294,7 +2294,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2303,14 +2303,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Chocalate Powder</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2381,7 +2381,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/2.png"
                                 className="img-fluid blur-up lazyload"
@@ -2407,7 +2407,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2416,14 +2416,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Sandwich Cookies</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2494,7 +2494,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/3.png"
                                 className="img-fluid blur-up lazyload"
@@ -2520,7 +2520,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2529,14 +2529,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Butter Croissant</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2607,7 +2607,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/4.png"
                                 className="img-fluid blur-up lazyload"
@@ -2633,7 +2633,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2642,14 +2642,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Dark Chocalate</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2720,7 +2720,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/5.png"
                                 className="img-fluid blur-up lazyload"
@@ -2746,7 +2746,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2755,14 +2755,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Mix-sweet-food</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2833,7 +2833,7 @@ export default function Home() {
                       <div className="col-12 px-0">
                         <div className="product-box">
                           <div className="product-image">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <img
                                 src="../assets/images/vegetable/product/4.png"
                                 className="img-fluid blur-up lazyload"
@@ -2859,7 +2859,7 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Compare"
                               >
-                                <a href="compare.html">
+                                <a href="compare">
                                   <i data-feather="refresh-cw" />
                                 </a>
                               </li>
@@ -2868,14 +2868,14 @@ export default function Home() {
                                 data-bs-placement="top"
                                 title="Wishlist"
                               >
-                                <a href="wishlist.html" className="notifi-wishlist">
+                                <a href="wishlist" className="notifi-wishlist">
                                   <i data-feather="heart" />
                                 </a>
                               </li>
                             </ul>
                           </div>
                           <div className="product-detail">
-                            <a href="product-left-thumbnail.html">
+                            <a href="product-left-thumbnail">
                               <h6 className="name h-100">Dark Chocalate</h6>
                             </a>
                             <h5 className="sold text-content">
@@ -2990,7 +2990,7 @@ export default function Home() {
                   </div>
                   <div className="col-xxl-4 col-xl-12 col-md-5">
                     <a
-                      href="shop-left-sidebar.html"
+                      href="shop-left-sidebar"
                       className="banner-contain hover-effect h-100"
                     >
                       <img
@@ -3030,7 +3030,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3042,7 +3042,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Tuffets Whole Wheat Bread</h6>
@@ -3056,7 +3056,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3068,7 +3068,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Potato</h6>
@@ -3082,7 +3082,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3094,7 +3094,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Green Chilli</h6>
@@ -3108,7 +3108,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3120,7 +3120,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Muffets Burger Bun</h6>
@@ -3138,7 +3138,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3150,7 +3150,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Tuffets Britannia Cheezza</h6>
@@ -3164,7 +3164,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3176,7 +3176,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Long Life Toned Milk</h6>
@@ -3190,7 +3190,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3202,7 +3202,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Organic Tomato</h6>
@@ -3216,7 +3216,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3228,7 +3228,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Organic Jam</h6>
@@ -3246,7 +3246,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3258,7 +3258,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">
@@ -3274,7 +3274,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3286,7 +3286,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Good Life Raw Peanuts</h6>
@@ -3300,7 +3300,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3312,7 +3312,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">TufBest Farms Moong Dal</h6>
@@ -3326,7 +3326,7 @@ export default function Home() {
                     <li>
                       <div className="offer-product">
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="offer-image"
                         >
                           <img
@@ -3338,7 +3338,7 @@ export default function Home() {
                         <div className="offer-detail">
                           <div>
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="text-title"
                             >
                               <h6 className="name">Frooti Mango Drink</h6>
@@ -3390,7 +3390,7 @@ export default function Home() {
                 <div>
                   <div className="blog-box">
                     <div className="blog-box-image">
-                      <a href="blog-detail.html" className="blog-image">
+                      <a href="blog-detail" className="blog-image">
                         <img
                           src="../assets/images/vegetable/blog/1.jpg"
                           className="bg-img blur-up lazyload"
@@ -3398,7 +3398,7 @@ export default function Home() {
                         />
                       </a>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail">
+                    <a href="blog-detail" className="blog-detail">
                       <h6>20 March, 2022</h6>
                       <h5>Fresh Vegetable Online</h5>
                     </a>
@@ -3407,7 +3407,7 @@ export default function Home() {
                 <div>
                   <div className="blog-box">
                     <div className="blog-box-image">
-                      <a href="blog-detail.html" className="blog-image">
+                      <a href="blog-detail" className="blog-image">
                         <img
                           src="../assets/images/vegetable/blog/2.jpg"
                           className="bg-img blur-up lazyload"
@@ -3415,7 +3415,7 @@ export default function Home() {
                         />
                       </a>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail">
+                    <a href="blog-detail" className="blog-detail">
                       <h6>10 April, 2022</h6>
                       <h5>Fresh Combo Fruit</h5>
                     </a>
@@ -3424,7 +3424,7 @@ export default function Home() {
                 <div>
                   <div className="blog-box">
                     <div className="blog-box-image">
-                      <a href="blog-detail.html" className="blog-image">
+                      <a href="blog-detail" className="blog-image">
                         <img
                           src="../assets/images/vegetable/blog/3.jpg"
                           className="bg-img blur-up lazyload"
@@ -3432,7 +3432,7 @@ export default function Home() {
                         />
                       </a>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail">
+                    <a href="blog-detail" className="blog-detail">
                       <h6>10 April, 2022</h6>
                       <h5>Nuts to Eat for Better Health</h5>
                     </a>
@@ -3441,7 +3441,7 @@ export default function Home() {
                 <div>
                   <div className="blog-box">
                     <div className="blog-box-image">
-                      <a href="blog-detail.html" className="blog-image">
+                      <a href="blog-detail" className="blog-image">
                         <img
                           src="../assets/images/vegetable/blog/1.jpg"
                           className="bg-img blur-up lazyload"
@@ -3449,7 +3449,7 @@ export default function Home() {
                         />
                       </a>
                     </div>
-                    <a href="blog-detail.html" className="blog-detail">
+                    <a href="blog-detail" className="blog-detail">
                       <h6>20 March, 2022</h6>
                       <h5>Fresh Vegetable Online</h5>
                     </a>

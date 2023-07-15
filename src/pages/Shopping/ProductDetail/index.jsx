@@ -286,11 +286,11 @@ export default function ProductDetail() {
                   </button>
                 </div>
                 <div className="buy-box">
-                  <a href="wishlist.html">
+                  <a href="wishlist">
                     <i data-feather="heart" />
                     <span>Add To Wishlist</span>
                   </a>
-                  <a href="compare.html">
+                  <a href="compare">
                     <i data-feather="shuffle" />
                     <span>Add To Compare</span>
                   </a>
@@ -1089,7 +1089,7 @@ export default function ProductDetail() {
                   <li>
                     <div className="offer-product">
                       <a
-                        href="product-left-thumbnail.html"
+                        href="product-left-thumbnail"
                         className="offer-image"
                       >
                         <img
@@ -1100,7 +1100,7 @@ export default function ProductDetail() {
                       </a>
                       <div className="offer-detail">
                         <div>
-                          <a href="product-left-thumbnail.html">
+                          <a href="product-left-thumbnail">
                             <h6 className="name">Meatigo Premium Goat Curry</h6>
                           </a>
                           <span>450 G</span>
@@ -1112,7 +1112,7 @@ export default function ProductDetail() {
                   <li>
                     <div className="offer-product">
                       <a
-                        href="product-left-thumbnail.html"
+                        href="product-left-thumbnail"
                         className="offer-image"
                       >
                         <img
@@ -1123,7 +1123,7 @@ export default function ProductDetail() {
                       </a>
                       <div className="offer-detail">
                         <div>
-                          <a href="product-left-thumbnail.html">
+                          <a href="product-left-thumbnail">
                             <h6 className="name">
                               Dates Medjoul Premium Imported
                             </h6>
@@ -1137,7 +1137,7 @@ export default function ProductDetail() {
                   <li>
                     <div className="offer-product">
                       <a
-                        href="product-left-thumbnail.html"
+                        href="product-left-thumbnail"
                         className="offer-image"
                       >
                         <img
@@ -1148,7 +1148,7 @@ export default function ProductDetail() {
                       </a>
                       <div className="offer-detail">
                         <div>
-                          <a href="product-left-thumbnail.html">
+                          <a href="product-left-thumbnail">
                             <h6 className="name">Good Life Walnut Kernels</h6>
                           </a>
                           <span>200 G</span>
@@ -1160,7 +1160,7 @@ export default function ProductDetail() {
                   <li className="mb-0">
                     <div className="offer-product">
                       <a
-                        href="product-left-thumbnail.html"
+                        href="product-left-thumbnail"
                         className="offer-image"
                       >
                         <img
@@ -1171,7 +1171,7 @@ export default function ProductDetail() {
                       </a>
                       <div className="offer-detail">
                         <div>
-                          <a href="product-left-thumbnail.html">
+                          <a href="product-left-thumbnail">
                             <h6 className="name">Apple Red Premium Imported</h6>
                           </a>
                           <span>1 KG</span>
@@ -1232,7 +1232,7 @@ export default function ProductDetail() {
               <div className="product-box-3 wow fadeInUp">
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-2.html">
+                    <a href="product-left-2">
                       <img
                         src="../assets/images/cake/product/11.png"
                         className="img-fluid blur-up lazyload"
@@ -1258,7 +1258,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1267,7 +1267,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1277,7 +1277,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Cake</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">Chocolate Chip Cookies 250 g</h5>
                     </a>
                     <div className="product-rating mt-2">
@@ -1350,7 +1350,7 @@ export default function ProductDetail() {
               >
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/2.png"
                         className="img-fluid blur-up lazyload"
@@ -1376,7 +1376,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1385,7 +1385,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1395,7 +1395,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Vegetable</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         Fresh Bread and Pastry Flour 200 g
                       </h5>
@@ -1467,7 +1467,7 @@ export default function ProductDetail() {
               <div className="product-box-3 wow fadeInUp" data-wow-delay="0.1s">
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/3.png"
                         className="img-fluid blur-up lazyload"
@@ -1493,7 +1493,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1502,7 +1502,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1512,7 +1512,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Vegetable</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         Peanut Butter Bite Premium Butter Cookies 600 g
                       </h5>
@@ -1587,7 +1587,7 @@ export default function ProductDetail() {
               >
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/4.png"
                         className="img-fluid blur-up lazyload"
@@ -1613,7 +1613,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1622,7 +1622,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1632,7 +1632,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Snacks</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         SnackAmor Combo Pack of Jowar Stick and Jowar Chips
                       </h5>
@@ -1704,7 +1704,7 @@ export default function ProductDetail() {
               <div className="product-box-3 wow fadeInUp" data-wow-delay="0.2s">
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/5.png"
                         className="img-fluid blur-up lazyload"
@@ -1730,7 +1730,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1739,7 +1739,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1749,7 +1749,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Snacks</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         Yumitos Chilli Sprinkled Potato Chips 100 g
                       </h5>
@@ -1824,7 +1824,7 @@ export default function ProductDetail() {
               >
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/6.png"
                         className="img-fluid blur-up lazyload"
@@ -1850,7 +1850,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1859,7 +1859,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1869,7 +1869,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Vegetable</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         Fantasy Crunchy Choco Chip Cookies
                       </h5>
@@ -1941,7 +1941,7 @@ export default function ProductDetail() {
               <div className="product-box-3 wow fadeInUp" data-wow-delay="0.3s">
                 <div className="product-header">
                   <div className="product-image">
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <img
                         src="../assets/images/cake/product/7.png"
                         className="img-fluid"
@@ -1967,7 +1967,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Compare"
                       >
-                        <a href="compare.html">
+                        <a href="compare">
                           <i data-feather="refresh-cw" />
                         </a>
                       </li>
@@ -1976,7 +1976,7 @@ export default function ProductDetail() {
                         data-bs-placement="top"
                         title="Wishlist"
                       >
-                        <a href="wishlist.html" className="notifi-wishlist">
+                        <a href="wishlist" className="notifi-wishlist">
                           <i data-feather="heart" />
                         </a>
                       </li>
@@ -1986,7 +1986,7 @@ export default function ProductDetail() {
                 <div className="product-footer">
                   <div className="product-detail">
                     <span className="span-name">Vegetable</span>
-                    <a href="product-left-thumbnail.html">
+                    <a href="product-left-thumbnail">
                       <h5 className="name">
                         Fresh Bread and Pastry Flour 200 g
                       </h5>
@@ -2136,11 +2136,11 @@ export default function ProductDetail() {
             <div className="add-btn">
               <a
                 className="btn theme-bg-color text-white wishlist-btn"
-                href="wishlist.html"
+                href="wishlist"
               >
                 <i className="fa fa-bookmark" /> Wishlist
               </a>
-              <a className="btn theme-bg-color text-white" href="cart.html">
+              <a className="btn theme-bg-color text-white" href="cart">
                 <i className="fas fa-shopping-cart" /> Add To Cart
               </a>
             </div>

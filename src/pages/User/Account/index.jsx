@@ -368,7 +368,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/2.png"
                                     className="img-fluid blur-up lazyload"
@@ -385,7 +385,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Vegetable</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Fresh Bread and Pastry Flour 200 g
                                   </h5>
@@ -451,7 +451,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/3.png"
                                     className="img-fluid blur-up lazyload"
@@ -468,7 +468,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Vegetable</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Peanut Butter Bite Premium Butter Cookies 600 g
                                   </h5>
@@ -534,7 +534,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/4.png"
                                     className="img-fluid blur-up lazyload"
@@ -551,7 +551,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Snacks</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     SnackAmor Combo Pack of Jowar Stick and Jowar
                                     Chips
@@ -621,7 +621,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/5.png"
                                     className="img-fluid blur-up lazyload"
@@ -638,7 +638,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Snacks</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Yumitos Chilli Sprinkled Potato Chips 100 g
                                   </h5>
@@ -705,7 +705,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/6.png"
                                     className="img-fluid blur-up lazyload"
@@ -722,7 +722,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Vegetable</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Fantasy Crunchy Choco Chip Cookies
                                   </h5>
@@ -790,7 +790,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/7.png"
                                     className="img-fluid blur-up lazyload"
@@ -807,7 +807,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Vegetable</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Fresh Bread and Pastry Flour 200 g
                                   </h5>
@@ -874,7 +874,7 @@ export default function Account() {
                           <div className="product-box-3 theme-bg-white h-100">
                             <div className="product-header">
                               <div className="product-image">
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <img
                                     src="../assets/images/cake/product/2.png"
                                     className="img-fluid blur-up lazyload"
@@ -891,7 +891,7 @@ export default function Account() {
                             <div className="product-footer">
                               <div className="product-detail">
                                 <span className="span-name">Vegetable</span>
-                                <a href="product-left-thumbnail.html">
+                                <a href="product-left-thumbnail">
                                   <h5 className="name">
                                     Fresh Bread and Pastry Flour 200 g
                                   </h5>
@@ -990,7 +990,7 @@ export default function Account() {
                           </div>
                           <div className="product-order-detail">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="order-image"
                             >
                               <img
@@ -1000,7 +1000,7 @@ export default function Account() {
                               />
                             </a>
                             <div className="order-wrap">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h3>Fantasy Crunchy Choco Chip Cookies</h3>
                               </a>
                               <p className="text-content">
@@ -1074,7 +1074,7 @@ export default function Account() {
                           </div>
                           <div className="product-order-detail">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="order-image"
                             >
                               <img
@@ -1084,7 +1084,7 @@ export default function Account() {
                               />
                             </a>
                             <div className="order-wrap">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h3>Cold Brew Coffee Instant Coffee 50 g</h3>
                               </a>
                               <p className="text-content">
@@ -1156,7 +1156,7 @@ export default function Account() {
                           </div>
                           <div className="product-order-detail">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="order-image"
                             >
                               <img
@@ -1166,7 +1166,7 @@ export default function Account() {
                               />
                             </a>
                             <div className="order-wrap">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h3>
                                   Peanut Butter Bite Premium Butter Cookies 600 g
                                 </h3>
@@ -1241,7 +1241,7 @@ export default function Account() {
                           </div>
                           <div className="product-order-detail">
                             <a
-                              href="product-left-thumbnail.html"
+                              href="product-left-thumbnail"
                               className="order-image"
                             >
                               <img
@@ -1251,7 +1251,7 @@ export default function Account() {
                               />
                             </a>
                             <div className="order-wrap">
-                              <a href="product-left-thumbnail.html">
+                              <a href="product-left-thumbnail">
                                 <h3>
                                   SnackAmor Combo Pack of Jowar Stick and Jowar
                                   Chips

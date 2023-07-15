@@ -52,7 +52,7 @@ export default function BlogDetail() {
                       <div className="accordion-body pt-0">
                         <div className="recent-post-box">
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/1.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -60,7 +60,7 @@ export default function BlogDetail() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Green onion knife and salad placed
                                 </h5>
@@ -71,7 +71,7 @@ export default function BlogDetail() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/2.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -79,7 +79,7 @@ export default function BlogDetail() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Health and skin for your organic
                                 </h5>
@@ -90,7 +90,7 @@ export default function BlogDetail() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/3.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -98,7 +98,7 @@ export default function BlogDetail() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Organics mix masala fresh &amp; soft
                                 </h5>
@@ -109,7 +109,7 @@ export default function BlogDetail() {
                             </div>
                           </div>
                           <div className="recent-box">
-                            <a href="blog-detail.html" className="recent-image">
+                            <a href="blog-detail" className="recent-image">
                               <img
                                 src="../assets/images/inner-page/blog/4.jpg"
                                 className="img-fluid blur-up lazyload"
@@ -117,7 +117,7 @@ export default function BlogDetail() {
                               />
                             </a>
                             <div className="recent-detail">
-                              <a href="blog-detail.html">
+                              <a href="blog-detail">
                                 <h5 className="recent-name">
                                   Fresh organics brand and picnic
                                 </h5>
@@ -153,7 +153,7 @@ export default function BlogDetail() {
                         <div className="category-list-box">
                           <ul>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Latest Recipes</h5>
                                   <span>10</span>
@@ -161,7 +161,7 @@ export default function BlogDetail() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Diet Food</h5>
                                   <span>6</span>
@@ -169,7 +169,7 @@ export default function BlogDetail() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Low calorie Items</h5>
                                   <span>8</span>
@@ -177,7 +177,7 @@ export default function BlogDetail() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Cooking Method</h5>
                                   <span>9</span>
@@ -185,7 +185,7 @@ export default function BlogDetail() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Dairy Free</h5>
                                   <span>12</span>
@@ -193,7 +193,7 @@ export default function BlogDetail() {
                               </a>
                             </li>
                             <li>
-                              <a href="blog-list.html">
+                              <a href="blog-list">
                                 <div className="category-name">
                                   <h5>Vegetarian Food</h5>
                                   <span>10</span>
@@ -284,7 +284,7 @@ export default function BlogDetail() {
                           <li>
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -295,7 +295,7 @@ export default function BlogDetail() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Meatigo Premium Goat Curry
                                     </h6>
@@ -309,7 +309,7 @@ export default function BlogDetail() {
                           <li>
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -320,7 +320,7 @@ export default function BlogDetail() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Dates Medjoul Premium Imported
                                     </h6>
@@ -334,7 +334,7 @@ export default function BlogDetail() {
                           <li className="mb-0">
                             <div className="offer-product">
                               <a
-                                href="shop-left-sidebar.html"
+                                href="shop-left-sidebar"
                                 className="offer-image"
                               >
                                 <img
@@ -345,7 +345,7 @@ export default function BlogDetail() {
                               </a>
                               <div className="offer-detail">
                                 <div>
-                                  <a href="shop-left-sidebar.html">
+                                  <a href="shop-left-sidebar">
                                     <h6 className="name">
                                       Apple Red Premium Imported
                                     </h6>

@@ -23,7 +23,7 @@ export default function OrderSuccess() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product.left-sidebar.html"
+                              href="product.left-sidebar"
                               className="product-image"
                             >
                               <img
@@ -35,7 +35,7 @@ export default function OrderSuccess() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">
+                                  <a href="product-left-thumbnail">
                                     Bell pepper
                                   </a>
                                 </li>
@@ -62,7 +62,7 @@ export default function OrderSuccess() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product.left-sidebar.html"
+                              href="product.left-sidebar"
                               className="product-image"
                             >
                               <img
@@ -74,7 +74,7 @@ export default function OrderSuccess() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">Eggplant</a>
+                                  <a href="product-left-thumbnail">Eggplant</a>
                                 </li>
                                 <li className="text-content">Sold By: Nesto</li>
                                 <li className="text-content">Quantity - 250 g</li>
@@ -99,7 +99,7 @@ export default function OrderSuccess() {
                         <td className="product-detail">
                           <div className="product border-0">
                             <a
-                              href="product.left-sidebar.html"
+                              href="product.left-sidebar"
                               className="product-image"
                             >
                               <img
@@ -111,7 +111,7 @@ export default function OrderSuccess() {
                             <div className="product-detail">
                               <ul>
                                 <li className="name">
-                                  <a href="product-left-thumbnail.html">Onion</a>
+                                  <a href="product-left-thumbnail">Onion</a>
                                 </li>
                                 <li className="text-content">Sold By: Basket</li>
                                 <li className="text-content">Quantity - 750 g</li>
@@ -180,7 +180,7 @@ export default function OrderSuccess() {
                       <li className="pb-0">
                         <h4>Expected Date Of Delivery:</h4>
                         <h4 className="price theme-color">
-                          <a href="order-tracking.html" className="text-danger">
+                          <a href="order-tracking" className="text-danger">
                             Track Order
                           </a>
                         </h4>

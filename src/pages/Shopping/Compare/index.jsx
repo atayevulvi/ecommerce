@@ -23,7 +23,7 @@ export default function Compare() {
                       <td>
                         <a
                           className="text-title"
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                         >
                           Daily Shine Shampoo
                         </a>
@@ -31,7 +31,7 @@ export default function Compare() {
                       <td>
                         <a
                           className="text-title"
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                         >
                           Intence Repair Shampoo
                         </a>
@@ -39,7 +39,7 @@ export default function Compare() {
                       <td>
                         <a
                           className="text-title"
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                         >
                           Anti Dandruff Solution
                         </a>
@@ -47,7 +47,7 @@ export default function Compare() {
                       <td>
                         <a
                           className="text-title"
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                         >
                           Repair &amp; Shine Shampoo
                         </a>
@@ -57,7 +57,7 @@ export default function Compare() {
                       <th>Images</th>
                       <td>
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="compare-image"
                         >
                           <img
@@ -69,7 +69,7 @@ export default function Compare() {
                       </td>
                       <td>
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="compare-image"
                         >
                           <img
@@ -81,7 +81,7 @@ export default function Compare() {
                       </td>
                       <td>
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="compare-image"
                         >
                           <img
@@ -93,7 +93,7 @@ export default function Compare() {
                       </td>
                       <td>
                         <a
-                          href="product-left-thumbnail.html"
+                          href="product-left-thumbnail"
                           className="compare-image"
                         >
                           <img

@@ -214,7 +214,7 @@ export default function Shop() {
                   <div className="product-box-3 h-100 wow fadeInUp">
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/2.png"
                             className="img-fluid blur-up lazyload"
@@ -240,7 +240,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -249,7 +249,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -259,7 +259,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fresh Bread and Pastry Flour 200 g
                           </h5>
@@ -339,7 +339,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/3.png"
                             className="img-fluid blur-up lazyload"
@@ -365,7 +365,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -374,7 +374,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -384,7 +384,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Peanut Butter Bite Premium Butter Cookies 600 g
                           </h5>
@@ -464,7 +464,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/4.png"
                             className="img-fluid blur-up lazyload"
@@ -490,7 +490,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -499,7 +499,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -509,7 +509,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Snacks</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             SnackAmor Combo Pack of Jowar Stick and Jowar Chips
                           </h5>
@@ -591,7 +591,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/5.png"
                             className="img-fluid blur-up lazyload"
@@ -617,7 +617,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -626,7 +626,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -636,7 +636,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Snacks</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Yumitos Chilli Sprinkled Potato Chips 100 g
                           </h5>
@@ -717,7 +717,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/6.png"
                             className="img-fluid blur-up lazyload"
@@ -743,7 +743,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -752,7 +752,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -762,7 +762,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fantasy Crunchy Choco Chip Cookies
                           </h5>
@@ -843,7 +843,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/7.png"
                             className="img-fluid blur-up lazyload"
@@ -869,7 +869,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -878,7 +878,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -888,7 +888,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fresh Bread and Pastry Flour 200 g
                           </h5>
@@ -969,7 +969,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/2.png"
                             className="img-fluid blur-up lazyload"
@@ -995,7 +995,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1004,7 +1004,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1014,7 +1014,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fresh Bread and Pastry Flour 200 g
                           </h5>
@@ -1094,7 +1094,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/3.png"
                             className="img-fluid blur-up lazyload"
@@ -1120,7 +1120,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1129,7 +1129,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1139,7 +1139,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Peanut Butter Bite Premium Butter Cookies 600 g
                           </h5>
@@ -1220,7 +1220,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/4.png"
                             className="img-fluid blur-up lazyload"
@@ -1246,7 +1246,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1255,7 +1255,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1265,7 +1265,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Snacks</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             SnackAmor Combo Pack of Jowar Stick and Jowar Chips
                           </h5>
@@ -1347,7 +1347,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/5.png"
                             className="img-fluid blur-up lazyload"
@@ -1373,7 +1373,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1382,7 +1382,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1392,7 +1392,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Snacks</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Yumitos Chilli Sprinkled Potato Chips 100 g
                           </h5>
@@ -1473,7 +1473,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/6.png"
                             className="img-fluid blur-up lazyload"
@@ -1499,7 +1499,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1508,7 +1508,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1518,7 +1518,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fantasy Crunchy Choco Chip Cookies
                           </h5>
@@ -1598,7 +1598,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/7.png"
                             className="img-fluid blur-up lazyload"
@@ -1624,7 +1624,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1633,7 +1633,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1643,7 +1643,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fresh Bread and Pastry Flour 200 g
                           </h5>
@@ -1723,7 +1723,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/2.png"
                             className="img-fluid blur-up lazyload"
@@ -1749,7 +1749,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1758,7 +1758,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1768,7 +1768,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Fresh Bread and Pastry Flour 200 g
                           </h5>
@@ -1848,7 +1848,7 @@ export default function Shop() {
                   >
                     <div className="product-header">
                       <div className="product-image">
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <img
                             src="../assets/images/cake/product/3.png"
                             className="img-fluid blur-up lazyload"
@@ -1874,7 +1874,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Compare"
                           >
-                            <a href="compare.html">
+                            <a href="compare">
                               <i data-feather="refresh-cw" />
                             </a>
                           </li>
@@ -1883,7 +1883,7 @@ export default function Shop() {
                             data-bs-placement="top"
                             title="Wishlist"
                           >
-                            <a href="wishlist.html" className="notifi-wishlist">
+                            <a href="wishlist" className="notifi-wishlist">
                               <i data-feather="heart" />
                             </a>
                           </li>
@@ -1893,7 +1893,7 @@ export default function Shop() {
                     <div className="product-footer">
                       <div className="product-detail">
                         <span className="span-name">Vegetable</span>
-                        <a href="product-left-thumbnail.html">
+                        <a href="product-left-thumbnail">
                           <h5 className="name">
                             Peanut Butter Bite Premium Butter Cookies 600 g
                           </h5>
