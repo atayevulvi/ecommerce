@@ -65,7 +65,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-dashboard"
-                      aria-selected="true"
+                      aria-defaultValue="true"
                     >
                       <i data-feather="home" />
                       DashBoard
@@ -80,7 +80,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-order"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="shopping-bag" />
                       Order
@@ -95,7 +95,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-wishlist"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="heart" />
                       Wishlist
@@ -110,7 +110,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-card"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="credit-card" /> Saved Card
                     </button>
@@ -124,7 +124,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-address"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="map-pin" />
                       Address
@@ -139,7 +139,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-profile"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="user" />
                       Profile
@@ -154,7 +154,7 @@ export default function Account() {
                       type="button"
                       role="tab"
                       aria-controls="pills-security"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       <i data-feather="shield" />
                       Privacy
@@ -262,7 +262,7 @@ export default function Account() {
                             <h4>
                               Contact Information{" "}
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#editProfile"
                               >
@@ -273,7 +273,7 @@ export default function Account() {
                           <div className="dashboard-detail">
                             <h6 className="text-content">MARK JECNO</h6>
                             <h6 className="text-content">vicki.pope@gmail.com</h6>
-                            <a href="javascript:void(0)">Change Password</a>
+                            <a href="">Change Password</a>
                           </div>
                         </div>
                         <div className="col-xxl-6">
@@ -281,7 +281,7 @@ export default function Account() {
                             <h4>
                               Newsletters{" "}
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#editProfile"
                               >
@@ -300,7 +300,7 @@ export default function Account() {
                             <h4>
                               Address Book{" "}
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#editProfile"
                               >
@@ -318,7 +318,7 @@ export default function Account() {
                                   You have not set a default billing address.
                                 </h6>
                                 <a
-                                  href="javascript:void(0)"
+                                  href=""
                                   data-bs-toggle="modal"
                                   data-bs-target="#editProfile"
                                 >
@@ -335,7 +335,7 @@ export default function Account() {
                                   You have not set a default shipping address.
                                 </h6>
                                 <a
-                                  href="javascript:void(0)"
+                                  href=""
                                   data-bs-toggle="modal"
                                   data-bs-target="#editProfile"
                                 >
@@ -1704,12 +1704,12 @@ export default function Account() {
                               <a
                                 data-bs-toggle="modal"
                                 data-bs-target="#editCard"
-                                href="javascript:void(0)"
+                                href=""
                               >
                                 <i className="far fa-edit" /> edit
                               </a>
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#removeProfile"
                               >
@@ -1721,11 +1721,11 @@ export default function Account() {
                             <a
                               data-bs-toggle="modal"
                               data-bs-target="#editCard"
-                              href="javascript:void(0)"
+                              href=""
                             >
                               <i className="far fa-edit" /> edit
                             </a>
-                            <a href="javascript:void(0)">
+                            <a href="">
                               <i className="far fa-minus-square" />
                               delete
                             </a>
@@ -1768,12 +1768,12 @@ export default function Account() {
                               <a
                                 data-bs-toggle="modal"
                                 data-bs-target="#editCard"
-                                href="javascript:void(0)"
+                                href=""
                               >
                                 <i className="far fa-edit" /> edit
                               </a>
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#removeProfile"
                               >
@@ -1785,11 +1785,11 @@ export default function Account() {
                             <a
                               data-bs-toggle="modal"
                               data-bs-target="#editCard"
-                              href="javascript:void(0)"
+                              href=""
                             >
                               <i className="far fa-edit" /> edit
                             </a>
-                            <a href="javascript:void(0)">
+                            <a href="">
                               <i className="far fa-minus-square" />
                               delete
                             </a>
@@ -1832,12 +1832,12 @@ export default function Account() {
                               <a
                                 data-bs-toggle="modal"
                                 data-bs-target="#editCard"
-                                href="javascript:void(0)"
+                                href=""
                               >
                                 <i className="far fa-edit" /> edit
                               </a>
                               <a
-                                href="javascript:void(0)"
+                                href=""
                                 data-bs-toggle="modal"
                                 data-bs-target="#removeProfile"
                               >
@@ -1849,11 +1849,11 @@ export default function Account() {
                             <a
                               data-bs-toggle="modal"
                               data-bs-target="#editCard"
-                              href="javascript:void(0)"
+                              href=""
                             >
                               <i className="far fa-edit" /> edit
                             </a>
-                            <a href="javascript:void(0)">
+                            <a href="">
                               <i className="far fa-minus-square" />
                               delete
                             </a>
@@ -1905,7 +1905,7 @@ export default function Account() {
                             </div>
                           </div>
                           <a
-                            href="javascript:void(0)"
+                            href=""
                             data-bs-toggle="modal"
                             data-bs-target="#editProfile"
                           >
@@ -1963,7 +1963,7 @@ export default function Account() {
                                   <tr>
                                     <td>Phone Number :</td>
                                     <td>
-                                      <a href="javascript:void(0)">
+                                      <a href="">
                                         {" "}
                                         +91 846 - 547 - 210
                                       </a>
@@ -1985,7 +1985,7 @@ export default function Account() {
                                   <tr>
                                     <td>Email :</td>
                                     <td>
-                                      <a href="javascript:void(0)">
+                                      <a href="">
                                         vicki.pope@gmail.com
                                         <span
                                           data-bs-toggle="modal"
@@ -1999,7 +1999,7 @@ export default function Account() {
                                   <tr>
                                     <td>Password :</td>
                                     <td>
-                                      <a href="javascript:void(0)">
+                                      <a href="">
                                         ●●●●●●
                                         <span
                                           data-bs-toggle="modal"
@@ -2355,7 +2355,7 @@ export default function Account() {
                         id="floatingSelect1"
                         aria-label="Floating label select example"
                       >
-                        <option selected="">Choose Your Country</option>
+                        <option defaultValue="">Choose Your Country</option>
                         <option value="kindom">United Kingdom</option>
                         <option value="states">United States</option>
                         <option value="fra">France</option>
@@ -2383,7 +2383,7 @@ export default function Account() {
                   <form>
                     <div className="form-floating theme-form-floating">
                       <select className="form-select" id="floatingSelect">
-                        <option selected="">Choose Your City</option>
+                        <option defaultValue="">Choose Your City</option>
                         <option value="kindom">India</option>
                         <option value="states">Canada</option>
                         <option value="fra">Dubai</option>
@@ -2483,7 +2483,7 @@ export default function Account() {
                         id="floatingSelect12"
                         aria-label="Floating label select example"
                       >
-                        <option selected="">Card Type</option>
+                        <option defaultValue="">Card Type</option>
                         <option value="kindom">Visa Card</option>
                         <option value="states">MasterCard Card</option>
                         <option value="fra">RuPay Card</option>

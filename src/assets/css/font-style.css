@@ -1,29 +1,18 @@
-/**
-*
-*	Name:			iconly font icon
-*	Version:	    1.0
-*	Created on:		Dec 29, 2020
-*	License:		GNU General Public License
---------------------------------------------------------------------------------------
-*	
-**/
-
-
-@import url('bulk-style.css');
+@import url('./bulk-style.css');
 
 @font-face {
     font-family: iconly;
     font-style: normal;
     font-weight: 200;
-    src: url('https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.eot');
-    src: url('https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.eot?#iefix') format('embedded-opentype'),
+    src: url("../fonts/Iconly-light.eot");
+    src: url("https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.eot?#iefix") format("embedded-opentype"),
         /* IE6-8 */
-        url('https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.woff') format('woff'),
+        url("../fonts/Iconly-light.woff") format("woff"),
         /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.ttf') format('truetype'),
-        url('https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.svg#Iconly-light') format('svg');
-    ;
+        url("../fonts/Iconly-light.ttf") format("truetype"),
+        url("https://themes.pixelstrap.com/fastkart/assets/fonts/Iconly-light.svg#Iconly-light") format("svg");
 }
+
 
 
 @font-face {

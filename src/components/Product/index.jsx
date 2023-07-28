@@ -21,7 +21,7 @@ export default function Product({ title, slug, desc, price, img }) {
                                 title="View"
                             >
                                 <a
-                                    href="javascript:void(0)"
+                                    href=""
                                     data-bs-toggle="modal"
                                     data-bs-target="#view"
                                 >

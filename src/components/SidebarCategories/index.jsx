@@ -35,7 +35,7 @@ export default function SidebarCategories() {
                                     data-bs-target="#pills-vegetable"
                                     type="button"
                                     role="tab"
-                                    aria-selected="true"
+                                    aria-defaultValue="true"
                                 >
                                     {c.title}{" "}
                                     <img

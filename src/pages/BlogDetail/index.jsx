@@ -230,28 +230,28 @@ export default function BlogDetail() {
                         <div className="product-tags-box">
                           <ul>
                             <li>
-                              <a href="javascript:void(0)">Fruit Cutting</a>
+                              <a href="">Fruit Cutting</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">Meat</a>
+                              <a href="">Meat</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">organic</a>
+                              <a href="">organic</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">cake</a>
+                              <a href="">cake</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">pick fruit</a>
+                              <a href="">pick fruit</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">backery</a>
+                              <a href="">backery</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">organix food</a>
+                              <a href="">organix food</a>
                             </li>
                             <li>
-                              <a href="javascript:void(0)">Most Expensive Fruit</a>
+                              <a href="">Most Expensive Fruit</a>
                             </li>
                           </ul>
                         </div>

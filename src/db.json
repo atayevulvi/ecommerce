@@ -95,5 +95,229 @@
         "slug": "catone"
       }
     }
+  ],
+  "categoryCarousels": [
+    {
+      "id": 1,
+      "image": "src/assets/images/vegetable/banner/4.jpg",
+      "discount": "5% OFF",
+      "subtitle": "Hot Deals on New Items",
+      "title": "Buy More & Save More",
+      "url": "shop-left-sideba"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/vegetable/banner/5.jpg",
+      "discount": "5% OFF",
+      "subtitle": "Hot Deals on New Items",
+      "title": "Organic Meat Prepared",
+      "url": "shop-left-sidebar"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/vegetable/banner/6.jpg",
+      "discount": "5% OFF",
+      "subtitle": "Hot Deals on New Items",
+      "title": "Buy More & Save More",
+      "url": "shop-left-sidebar"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/vegetable/banner/7.jpg",
+      "discount": "5% OFF",
+      "subtitle": "Hot Deals on New Items",
+      "title": "Organic Meat Prepared",
+      "url": "shop-left-sidebar"
+    }
+  ],
+  "swiperCarusel": [
+    {
+      "id": 1,
+      "image": "src/assets/images/vegetable/product/1.png"
+      
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/vegetable/product/2.png"
+      
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/vegetable/product/3.png"
+      
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/vegetable/product/4.png"
+      
+    },
+    {
+      "id": 5,
+      "image": "src/assets/images/vegetable/product/5.png"
+      
+    },
+    {
+      "id": 6,
+      "image": "src/assets/images/vegetable/product/6.png"
+      
+    },
+    {
+      "id": 7,
+      "image": "src/assets/images/vegetable/product/7.png"
+      
+    },
+    {
+      "id": 8,
+      "image": "src/assets/images/vegetable/product/8.png"
+      
+    },
+    {
+      "id": 9,
+      "image": "src/assets/images/vegetable/product/9.png"
+      
+    },
+    {
+      "id": 10,
+      "image": "src/assets/images/vegetable/product/10.png"
+      
+    },
+    {
+      "id": 11,
+      "image": "src/assets/images/vegetable/product/11.png"
+      
+    },
+    {
+      "id": 12,
+      "image": "src/assets/images/vegetable/product/12.png"
+      
+    }
+    
+  ],
+  "CaruselSilde":[
+    {
+      "id": 1,
+      "image": "src/assets/images/svgler/vegetable (1).svg"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/svgler/cup (2).svg"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/svgler/meats (1).svg"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/svgler/breakfast.svg"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/images/svgler/grocery (1).svg"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/images/svgler/biscuit (1).svg"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/images/svgler/pet.svg"
+    }
+
+  ],
+  "CaruselSurusgen":[
+    {
+      "id": 1,
+      "image": "src/assets/images/vegetable/product/1.png"
+      
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/vegetable/product/2.png"
+      
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/vegetable/product/3.png"
+      
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/vegetable/product/4.png"
+      
+    },
+    {
+      "id": 5,
+      "image": "src/assets/images/vegetable/product/5.png"
+      
+    },
+    {
+      "id": 6,
+      "image": "src/assets/images/vegetable/product/6.png"
+      
+    }
+
+  ],
+  "CaruselSon":[
+    {
+      "id": 1,
+      "image": "src/assets/images/vegetable/product/11.png"
+      
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/vegetable/product/12.png"
+      
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/vegetable/product/13.png"
+      
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/vegetable/product/14.png"
+      
+    },
+    {
+      "id": 5,
+      "image": "src/assets/images/vegetable/product/15.png"
+      
+    },
+    {
+      "id": 6,
+      "image": "src/assets/images/vegetable/product/16.png"
+      
+    },
+    {
+      "id": 7,
+      "image": "src/assets/images/vegetable/product/17.png"
+      
+    },
+    {
+      "id": 8,
+      "image": "src/assets/images/vegetable/product/18.png"
+      
+    },
+    {
+      "id": 9,
+      "image": "src/assets/images/vegetable/product/19.png"
+      
+    },
+    {
+      "id": 10,
+      "image": "src/assets/images/vegetable/product/20.png"
+      
+    },
+    {
+      "id": 11,
+      "image": "src/assets/images/vegetable/product/21.png"
+      
+    },
+    {
+      "id": 12,
+      "image": "src/assets/images/vegetable/product/22.png"
+      
+    }
+
   ]
 }

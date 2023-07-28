@@ -109,7 +109,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="pop"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Popularity
                           </a>
@@ -118,7 +118,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="low"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Low - High Price
                           </a>
@@ -127,7 +127,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="high"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             High - Low Price
                           </a>
@@ -136,7 +136,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="rating"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Average Rating
                           </a>
@@ -145,7 +145,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="aToz"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             A - Z Order
                           </a>
@@ -154,7 +154,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="zToa"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Z - A Order
                           </a>
@@ -163,7 +163,7 @@ export default function Shop() {
                           <a
                             className="dropdown-item"
                             id="off"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             % Off - Hight To Low
                           </a>
@@ -174,7 +174,7 @@ export default function Shop() {
                   <div className="grid-option d-none d-md-block">
                     <ul>
                       <li className="three-grid">
-                        <a href="javascript:void(0)">
+                        <a href="">
                           <img
                             src="https://themes.pixelstrap.com/fastkart/assets/svg/grid-3.svg"
                             className="blur-up lazyload"
@@ -183,7 +183,7 @@ export default function Shop() {
                         </a>
                       </li>
                       <li className="grid-btn d-xxl-inline-block d-none active">
-                        <a href="javascript:void(0)">
+                        <a href="">
                           <img
                             src="https://themes.pixelstrap.com/fastkart/assets/svg/grid-4.svg"
                             className="blur-up lazyload d-lg-inline-block d-none"
@@ -197,7 +197,7 @@ export default function Shop() {
                         </a>
                       </li>
                       <li className="list-btn">
-                        <a href="javascript:void(0)">
+                        <a href="">
                           <img
                             src="https://themes.pixelstrap.com/fastkart/assets/svg/list.svg"
                             className="blur-up lazyload"
@@ -228,7 +228,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -353,7 +353,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -478,7 +478,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -605,7 +605,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -731,7 +731,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -857,7 +857,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -983,7 +983,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1108,7 +1108,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1234,7 +1234,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1361,7 +1361,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1487,7 +1487,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1612,7 +1612,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1737,7 +1737,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1862,7 +1862,7 @@ export default function Shop() {
                             title="View"
                           >
                             <a
-                              href="javascript:void(0)"
+                              href=""
                               data-bs-toggle="modal"
                               data-bs-target="#view"
                             >
@@ -1973,7 +1973,7 @@ export default function Shop() {
                   <li className="page-item disabled">
                     <a
                       className="page-link"
-                      href="javascript:void(0)"
+                      href=""
                       tabIndex={-1}
                       aria-disabled="true"
                     >
@@ -1981,22 +1981,22 @@ export default function Shop() {
                     </a>
                   </li>
                   <li className="page-item active">
-                    <a className="page-link" href="javascript:void(0)">
+                    <a className="page-link" href="">
                       1
                     </a>
                   </li>
                   <li className="page-item" aria-current="page">
-                    <a className="page-link" href="javascript:void(0)">
+                    <a className="page-link" href="">
                       2
                     </a>
                   </li>
                   <li className="page-item">
-                    <a className="page-link" href="javascript:void(0)">
+                    <a className="page-link" href="">
                       3
                     </a>
                   </li>
                   <li className="page-item">
-                    <a className="page-link" href="javascript:void(0)">
+                    <a className="page-link" href="">
                       <i className="fa-solid fa-angles-right" />
                     </a>
                   </li>
@@ -2014,23 +2014,23 @@ export default function Shop() {
                   <div className="filter-category">
                     <div className="filter-title">
                       <h2>Filters</h2>
-                      <a href="javascript:void(0)">Clear All</a>
+                      <a href="">Clear All</a>
                     </div>
                     <ul>
                       <li>
-                        <a href="javascript:void(0)">Vegetable</a>
+                        <a href="">Vegetable</a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">Fruit</a>
+                        <a href="">Fruit</a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">Fresh</a>
+                        <a href="">Fresh</a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">Milk</a>
+                        <a href="">Milk</a>
                       </li>
                       <li>
-                        <a href="javascript:void(0)">Meat</a>
+                        <a href="">Meat</a>
                       </li>
                     </ul>
                   </div>

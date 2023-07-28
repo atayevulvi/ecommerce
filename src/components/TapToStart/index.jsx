@@ -1,10 +1,12 @@
+import {BsGear} from 'react-icons/bs'
+import {BsChevronUp} from 'react-icons/bs'
 export default function TapToStart() {
     return (
         <>
             <div className="theme-option">
                 <div className="setting-box">
                     <button className="btn setting-button">
-                        <i className="fa-solid fa-gear" />
+                        <BsGear color='white' fontSize={'20px'}/>
                     </button>
                     <div className="theme-setting-2">
                         <div className="theme-box">
@@ -56,7 +58,7 @@ export default function TapToStart() {
                 </div>
                 <div className="back-to-top">
                     <a id="back-to-top" href="#">
-                        <i className="fas fa-chevron-up" />
+                        <BsChevronUp fontSize={'20px'} color='white' fontWeight={'600'}/>
                     </a>
                 </div>
             </div>

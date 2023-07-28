@@ -1,5 +1,20 @@
-
-
+/* eslint-disable react/jsx-no-undef */
+import qutu from '../../../assets/images/svgler2/product.svg'
+import car from '../../../assets/images/svgler2/delivery (1).svg'
+import ulduz from '../../../assets/images/svgler2/discount (2).svg'
+import hand from '../../../assets/images/svgler2/market (1).svg'
+import logo from '../../../assets/images/logo/1.png'
+import { Link } from 'react-router-dom'
+import {BsTelephone} from 'react-icons/bs'
+import {VscHome} from 'react-icons/vsc'
+import {HiOutlineMail} from 'react-icons/hi'
+import apple from '../../../assets/images/svgler2/Google-Play-Logo-PNG-Photos.png'
+import download from '../../../assets/images/svgler2/download.png'
+import {BiLogoFacebook} from 'react-icons/bi'
+import {BsTwitter} from 'react-icons/bs'
+import {FiInstagram} from 'react-icons/fi'
+import {FaPinterestP} from 'react-icons/fa'
+import card from '../../../assets/images/payment/1.png'
 export default function Footer() {
     return (
         <>
@@ -12,49 +27,49 @@ export default function Footer() {
                                     <div className="service-box">
                                         <div className="service-image">
                                             <img
-                                                src="https://themes.pixelstrap.com/fastkart/assets/svg/product.svg"
-                                                className="blur-up lazyload"
+                                                src={qutu}
+                                                className="lazyload"
                                                 alt=""
                                             />
                                         </div>
                                         <div className="service-detail">
-                                            <h5>Every Fresh Products</h5>
+                                            <h5 style={{fontWeight:'300',fontSize:'17px'}}>Every Fresh Products</h5>
                                         </div>
                                     </div>
                                     <div className="service-box">
                                         <div className="service-image">
                                             <img
-                                                src="https://themes.pixelstrap.com/fastkart/assets/svg/delivery.svg"
-                                                className="blur-up lazyload"
+                                                src={car}
+                                                className=" lazyload"
                                                 alt=""
                                             />
                                         </div>
                                         <div className="service-detail">
-                                            <h5>Free Delivery For Order Over $50</h5>
+                                            <h5 style={{fontWeight:'300',fontSize:'17px'}}>Free Delivery For Order Over $50</h5>
                                         </div>
                                     </div>
                                     <div className="service-box">
                                         <div className="service-image">
                                             <img
-                                                src="https://themes.pixelstrap.com/fastkart/assets/svg/discount.svg"
-                                                className="blur-up lazyload"
+                                                src={ulduz}
+                                                className=" lazyload"
                                                 alt=""
                                             />
                                         </div>
                                         <div className="service-detail">
-                                            <h5>Daily Mega Discounts</h5>
+                                            <h5 style={{fontWeight:'300',fontSize:'17px'}}>Daily Mega Discounts</h5>
                                         </div>
                                     </div>
                                     <div className="service-box">
                                         <div className="service-image">
                                             <img
-                                                src="https://themes.pixelstrap.com/fastkart/assets/svg/market.svg"
-                                                className="blur-up lazyload"
+                                                src={hand}
+                                                className=" lazyload"
                                                 alt=""
                                             />
                                         </div>
                                         <div className="service-detail">
-                                            <h5>Best Price On The Market</h5>
+                                            <h5 style={{fontWeight:'300',fontSize:'17px'}}>Best Price On The Market</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -66,29 +81,29 @@ export default function Footer() {
                             <div className="col-xl-3 col-lg-4 col-sm-6">
                                 <div className="footer-logo">
                                     <div className="theme-logo">
-                                        <a href="index">
+                                       <Link to="index">
                                             <img
-                                                src="../assets/images/logo/1.png"
-                                                className="blur-up lazyload"
+                                                src={logo}
+                                                className=" lazyload"
                                                 alt=""
                                             />
-                                        </a>
+                                      </Link>
                                     </div>
                                     <div className="footer-logo-contain">
                                         <p>
                                             We are a friendly bar serving a variety of cocktails, wines
                                             and beers. Our bar is a perfect place for a couple.
                                         </p>
-                                        <ul className="address">
+                                        <ul style={{transform:'translate(-35px)'}} className="address">
                                             <li>
-                                                <i data-feather="home" />
-                                                <a href="javascript:void(0)">
+                                               <VscHome style={{fontSize:'25px'}}/>
+                                               <Link to="">
                                                     1418 Riverwood Drive, CA 96052, US
-                                                </a>
+                                              </Link>
                                             </li>
                                             <li>
-                                                <i data-feather="mail" />
-                                                <a href="javascript:void(0)">support@fastkart.com</a>
+                                               <HiOutlineMail style={{fontSize:'18px'}}/>
+                                               <Link to="">support@fastkart.com</Link>
                                             </li>
                                         </ul>
                                     </div>
@@ -96,166 +111,164 @@ export default function Footer() {
                             </div>
                             <div className="col-xl-2 col-lg-3 col-md-4 col-sm-6">
                                 <div className="footer-title">
-                                    <h4>Categories</h4>
+                                    <h4 style={{fontWeight:'500'}}>Categories</h4>
                                 </div>
                                 <div className="footer-contain">
-                                    <ul>
+                                    <ul style={{transform:'translate(-30px)'}}>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Vegetables &amp; Fruit
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Beverages
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Meats &amp; Seafood
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Frozen Foods
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Biscuits &amp; Snacks
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Grocery &amp; Staples
-                                            </a>
+                                          </Link>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="col-xl col-lg-2 col-sm-3">
                                 <div className="footer-title">
-                                    <h4>Useful Links</h4>
+                                    <h4 style={{fontWeight:'500'}}>Useful Links</h4>
                                 </div>
                                 <div className="footer-contain">
-                                    <ul>
+                                    <ul style={{transform:'translate(-30px)'}}>
                                         <li>
-                                            <a href="index" className="text-content">
+                                           <Link to="index" className="text-content">
                                                 Home
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="shop-left-sidebar" className="text-content">
+                                           <Link to="shop-left-sidebar" className="text-content">
                                                 Shop
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="about-us" className="text-content">
+                                           <Link to="about-us" className="text-content">
                                                 About Us
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="blog-list" className="text-content">
+                                           <Link to="blog-list" className="text-content">
                                                 Blog
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="contact-us" className="text-content">
+                                           <Link to="contact-us" className="text-content">
                                                 Contact Us
-                                            </a>
+                                          </Link>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="col-xl-2 col-sm-3">
                                 <div className="footer-title">
-                                    <h4>Help Center</h4>
+                                    <h4 style={{fontWeight:'500'}}>Help Center</h4>
                                 </div>
                                 <div className="footer-contain">
-                                    <ul>
+                                    <ul style={{transform:'translate(-30px)'}}>
                                         <li>
-                                            <a href="order-success" className="text-content">
+                                           <Link to="order-success" className="text-content">
                                                 Your Order
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="user-dashboard" className="text-content">
+                                           <Link to="user-dashboard" className="text-content">
                                                 Your Account
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="order-tracking" className="text-content">
+                                           <Link to="order-tracking" className="text-content">
                                                 Track Order
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="wishlist" className="text-content">
+                                           <Link to="wishlist" className="text-content">
                                                 Your Wishlist
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="search" className="text-content">
+                                           <Link to="search" className="text-content">
                                                 Search
-                                            </a>
+                                          </Link>
                                         </li>
                                         <li>
-                                            <a href="faq" className="text-content">
+                                           <Link to="faq" className="text-content">
                                                 FAQ
-                                            </a>
+                                          </Link>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="col-xl-3 col-lg-4 col-sm-6">
                                 <div className="footer-title">
-                                    <h4>Contact Us</h4>
+                                    <h4 style={{fontWeight:'500'}}>Contact Us</h4>
                                 </div>
                                 <div className="footer-contact">
-                                    <ul>
+                                    <ul style={{transform:'translate(-30px)'}}>
                                         <li>
                                             <div className="footer-number">
-                                                <i data-feather="phone" />
+                                                <BsTelephone fontSize={'15px'}/>
                                                 <div className="contact-number">
-                                                    <h6 className="text-content">Hotline 24/7 :</h6>
-                                                    <h5>+91 888 104 2340</h5>
+                                                    <h6 style={{fontWeight:'400',fontSize:'15px'}} className="text-content">Hotline 24/7 :</h6>
+                                                    <h5 style={{fontWeight:'600',fontSize:'15px'}}>+91 888 104 2340</h5>
                                                 </div>
                                             </div>
                                         </li>
                                         <li>
                                             <div className="footer-number">
-                                                <i data-feather="mail" />
+                                                <HiOutlineMail style={{fontSize:'20px'}}/>
                                                 <div className="contact-number">
-                                                    <h6 className="text-content">Email Address :</h6>
-                                                    <h5>fastkart@hotmail.com</h5>
+                                                    <h6 style={{fontWeight:'400',fontSize:'15px'}} className="text-content">Email Address :</h6>
+                                                    <h5 style={{fontWeight:'600',fontSize:'15px'}}>fastkart@hotmail.com</h5>
                                                 </div>
                                             </div>
                                         </li>
                                         <li className="social-app">
-                                            <h5 className="mb-2 text-content">Download App :</h5>
-                                            <ul>
+                                            <h5 style={{fontSize:'17px',fontWeight:'400'}} className="mb-2 text-content">Download App :</h5>
+                                            <ul style={{transform:'translate(-30px)'}}>
                                                 <li className="mb-0">
-                                                    <a
-                                                        href="https://play.google.com/store/apps"
+                                                    <Link to="https://play.google.com/store/apps"
                                                         target="_blank" rel="noreferrer"
                                                     >
                                                         <img
-                                                            src="https://themes.pixelstrap.com/fastkart/assets/images/playstore.svg"
-                                                            className="blur-up lazyload"
+                                                            src={apple}
+                                                            className="lazyload"
                                                             alt=""
                                                         />
-                                                    </a>
+                                                  </Link>
                                                 </li>
                                                 <li className="mb-0">
-                                                    <a
-                                                        href="https://www.apple.com/in/app-store/"
+                                                    <Link to="https://www.apple.com/in/app-store/"
                                                         target="_blank" rel="noreferrer"
                                                     >
-                                                        <img
-                                                            src="https://themes.pixelstrap.com/fastkart/assets/images/appstore.svg"
-                                                            className="blur-up lazyload"
+                                                        <img width={'50px'} height={'45px'}
+                                                            src={download}
+                                                            className=" lazyload"
                                                             alt=""
                                                         />
-                                                    </a>
+                                                  </Link>
                                                 </li>
                                             </ul>
                                         </li>
@@ -270,33 +283,33 @@ export default function Footer() {
                         </div>
                         <div className="payment">
                             <img
-                                src="../assets/images/payment/1.png"
-                                className="blur-up lazyload"
+                                src={card}
+                                className=" lazyload"
                                 alt=""
                             />
                         </div>
                         <div className="social-link">
                             <h6 className="text-content">Stay connected :</h6>
-                            <ul>
+                            <ul style={{transform:'translate(-35px,2px)'}}>
                                 <li>
-                                    <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
-                                        <i className="fa-brands fa-facebook-f" />
-                                    </a>
+                                   <Link to="https://www.facebook.com/" target="_blank" rel="noreferrer">
+                                        <BiLogoFacebook color='#4a5568' fontSize={'20px'}/>
+                                  </Link>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-                                        <i className="fa-brands fa-twitter" />
-                                    </a>
+                                   <Link to="https://twitter.com/" target="_blank" rel="noreferrer">
+                                        <BsTwitter color='#4a5568' fontSize={'15px'}/>
+                                  </Link>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
-                                        <i className="fa-brands fa-instagram" />
-                                    </a>
+                                   <Link to="https://www.instagram.com/" target="_blank" rel="noreferrer">
+                                        <FiInstagram color='#4a5568' fontSize={'15px'}/>
+                                  </Link>
                                 </li>
                                 <li>
-                                    <a href="https://in.pinterest.com/" target="_blank" rel="noreferrer">
-                                        <i className="fa-brands fa-pinterest-p" />
-                                    </a>
+                                   <Link to="https://in.pinterest.com/" target="_blank" rel="noreferrer">
+                                        <FaPinterestP color='#4a5568' fontSize={'15px'}/>
+                                  </Link>
                                 </li>
                             </ul>
                         </div>

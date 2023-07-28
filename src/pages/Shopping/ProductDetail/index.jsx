@@ -189,21 +189,21 @@ export default function ProductDetail() {
                   </div>
                   <ul className="select-packege">
                     <li>
-                      <a href="javascript:void(0)" className="active">
+                      <a href="" className="active">
                         1/2 KG
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">1 KG</a>
+                      <a href="">1 KG</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">1.5 KG</a>
+                      <a href="">1.5 KG</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">Red Roses</a>
+                      <a href="">Red Roses</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">With Pink Roses</a>
+                      <a href="">With Pink Roses</a>
                     </li>
                   </ul>
                 </div>
@@ -308,20 +308,20 @@ export default function ProductDetail() {
                   <div className="product-info">
                     <ul className="product-info-list product-info-list-2">
                       <li>
-                        Type : <a href="javascript:void(0)">Black Forest</a>
+                        Type : <a href="">Black Forest</a>
                       </li>
                       <li>
-                        SKU : <a href="javascript:void(0)">SDFVW65467</a>
+                        SKU : <a href="">SDFVW65467</a>
                       </li>
                       <li>
-                        MFG : <a href="javascript:void(0)">Jun 4, 2022</a>
+                        MFG : <a href="">Jun 4, 2022</a>
                       </li>
                       <li>
-                        Stock : <a href="javascript:void(0)">2 Items Left</a>
+                        Stock : <a href="">2 Items Left</a>
                       </li>
                       <li>
-                        Tags : <a href="javascript:void(0)">Cake,</a>{" "}
-                        <a href="javascript:void(0)">Backery</a>
+                        Tags : <a href="">Cake,</a>{" "}
+                        <a href="">Backery</a>
                       </li>
                     </ul>
                   </div>
@@ -332,7 +332,7 @@ export default function ProductDetail() {
                   </div>
                   <ul>
                     <li>
-                      <a href="javascript:void(0)">
+                      <a href="">
                         <img
                           src="https://themes.pixelstrap.com/fastkart/assets/images/product/payment/1.svg"
                           className="blur-up lazyload"
@@ -341,7 +341,7 @@ export default function ProductDetail() {
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">
+                      <a href="">
                         <img
                           src="https://themes.pixelstrap.com/fastkart/assets/images/product/payment/2.svg"
                           className="blur-up lazyload"
@@ -350,7 +350,7 @@ export default function ProductDetail() {
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">
+                      <a href="">
                         <img
                           src="https://themes.pixelstrap.com/fastkart/assets/images/product/payment/3.svg"
                           className="blur-up lazyload"
@@ -359,7 +359,7 @@ export default function ProductDetail() {
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">
+                      <a href="">
                         <img
                           src="https://themes.pixelstrap.com/fastkart/assets/images/product/payment/4.svg"
                           className="blur-up lazyload"
@@ -368,7 +368,7 @@ export default function ProductDetail() {
                       </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0)">
+                      <a href="">
                         <img
                           src="https://themes.pixelstrap.com/fastkart/assets/images/product/payment/5.svg"
                           className="blur-up lazyload"
@@ -396,7 +396,7 @@ export default function ProductDetail() {
                       type="button"
                       role="tab"
                       aria-controls="description"
-                      aria-selected="true"
+                      aria-defaultValue="true"
                     >
                       Description
                     </button>
@@ -410,7 +410,7 @@ export default function ProductDetail() {
                       type="button"
                       role="tab"
                       aria-controls="info"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       Additional info
                     </button>
@@ -424,7 +424,7 @@ export default function ProductDetail() {
                       type="button"
                       role="tab"
                       aria-controls="care"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       Care Instuctions
                     </button>
@@ -438,7 +438,7 @@ export default function ProductDetail() {
                       type="button"
                       role="tab"
                       aria-controls="review"
-                      aria-selected="false"
+                      aria-defaultValue="false"
                     >
                       Review
                     </button>
@@ -823,7 +823,7 @@ export default function ProductDetail() {
                                   <div className="people-comment">
                                     <a
                                       className="name"
-                                      href="javascript:void(0)"
+                                      href=""
                                     >
                                       Tracey
                                     </a>
@@ -868,7 +868,7 @@ export default function ProductDetail() {
                                         cake I love gummi bears. Candy canes ice
                                         cream caramels tiramisu marshmallow cake
                                         shortbread candy canes cookie.
-                                        <a href="javascript:void(0)">Reply</a>
+                                        <a href="">Reply</a>
                                       </p>
                                     </div>
                                   </div>
@@ -888,7 +888,7 @@ export default function ProductDetail() {
                                   <div className="people-comment">
                                     <a
                                       className="name"
-                                      href="javascript:void(0)"
+                                      href=""
                                     >
                                       Olivia
                                     </a>
@@ -933,7 +933,7 @@ export default function ProductDetail() {
                                         chocolate bar. Jujubes gummi bears I
                                         love powder danish oat cake tart
                                         croissant.
-                                        <a href="javascript:void(0)">Reply</a>
+                                        <a href="">Reply</a>
                                       </p>
                                     </div>
                                   </div>
@@ -953,7 +953,7 @@ export default function ProductDetail() {
                                   <div className="people-comment">
                                     <a
                                       className="name"
-                                      href="javascript:void(0)"
+                                      href=""
                                     >
                                       Gabrielle
                                     </a>
@@ -1000,7 +1000,7 @@ export default function ProductDetail() {
                                         caramels pudding icing chocolate gummi
                                         bears. Gummi bears danish cotton candy
                                         muffin marzipan caramels awesome feel.{" "}
-                                        <a href="javascript:void(0)">Reply</a>
+                                        <a href="">Reply</a>
                                       </p>
                                     </div>
                                   </div>
@@ -1246,7 +1246,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1364,7 +1364,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1481,7 +1481,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1601,7 +1601,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1718,7 +1718,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1838,7 +1838,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -1955,7 +1955,7 @@ export default function ProductDetail() {
                         title="View"
                       >
                         <a
-                          href="javascript:void(0)"
+                          href=""
                           data-bs-toggle="modal"
                           data-bs-target="#view"
                         >
@@ -2098,7 +2098,7 @@ export default function ProductDetail() {
             <div className="selection-section">
               <div className="form-group mb-0">
                 <select id="input-state" className="form-control form-select">
-                  <option selected="" disabled="">
+                  <option defaultValue="" disabled="">
                     Choose Weight...
                   </option>
                   <option>1/2 KG</option>

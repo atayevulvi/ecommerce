@@ -152,13 +152,13 @@ export default function Cart() {
                           <h4 className="table-title text-content">Action</h4>
                           <a
                             className="save notifi-wishlist"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Save for later
                           </a>
                           <a
                             className="remove close_button"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Remove
                           </a>
@@ -296,13 +296,13 @@ export default function Cart() {
                           <h4 className="table-title text-content">Action</h4>
                           <a
                             className="save notifi-wishlist"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Save for later
                           </a>
                           <a
                             className="remove close_button"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Remove
                           </a>
@@ -441,13 +441,13 @@ export default function Cart() {
                           <h4 className="table-title text-content">Action</h4>
                           <a
                             className="save notifi-wishlist"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Save for later
                           </a>
                           <a
                             className="remove close_button"
-                            href="javascript:void(0)"
+                            href=""
                           >
                             Remove
                           </a>

@@ -282,7 +282,7 @@ export default function Checkout() {
                               <p className="cod-review">
                                 Pay digitally with SMS Pay Link. Cash may not be
                                 accepted in COVID restricted areas.{" "}
-                                <a href="javascript:void(0)">Know more.</a>
+                                <a href="">Know more.</a>
                               </p>
                             </div>
                           </div>

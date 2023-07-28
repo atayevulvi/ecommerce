@@ -1,37 +1,39 @@
+import {BiHomeAlt2, BiCategoryAlt} from 'react-icons/bi'
+import { NavLink } from 'react-router-dom'
 export default function MobileMenu() {
     return (
         <>
             <div className="mobile-menu d-md-none d-block mobile-cart">
                 <ul>
                     <li className="active">
-                        <a href="index">
-                            <i className="iconly-Home icli" />
+                        <NavLink to="/">
+                            <BiHomeAlt2 />
                             <span>Home</span>
-                        </a>
+                        </NavLink>
                     </li>
                     <li className="mobile-category">
-                        <a href="javascript:void(0)">
-                            <i className="iconly-Category icli js-link" />
+                        <NavLink to="">
+                            <BiCategoryAlt />
                             <span>Category</span>
-                        </a>
+                        </NavLink>
                     </li>
                     <li>
-                        <a href="search" className="search-box">
+                        <NavLink to="search" className="search-box">
                             <i className="iconly-Search icli" />
                             <span>Search</span>
-                        </a>
+                        </NavLink>
                     </li>
                     <li>
-                        <a href="wishlist" className="notifi-wishlist">
+                        <NavLink to="wishlist" className="notifi-wishlist">
                             <i className="iconly-Heart icli" />
                             <span>My Wish</span>
-                        </a>
+                        </NavLink>
                     </li>
                     <li>
-                        <a href="cart">
+                        <NavLink to="cart">
                             <i className="iconly-Bag-2 icli fly-cate" />
                             <span>Cart</span>
-                        </a>
+                        </NavLink>
                     </li>
                 </ul>
             </div>
