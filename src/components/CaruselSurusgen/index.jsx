@@ -44,15 +44,15 @@ export default function CaruselSurusgen({ data }) {
         slidesPerView={3}
         spaceBetween={10}
         centeredSlides={true}
-        loop={false}
+        loop={true}
         pagination={{
           clickable: false,
           enabled: false
         }}
-        // autoplay={{
-        //   delay: 1000,
-        //   disableOnInteraction: false,
-        // }}
+        autoplay={{
+          delay: 1000,
+          disableOnInteraction: false,
+        }}
 
 
         navigation={true}
@@ -136,14 +136,14 @@ export default function CaruselSurusgen({ data }) {
                   </div>
                   <div className="add-to-cart-box d-flex align-items-center justify-content-between">
                     <span onClick={decrementCount} style={{ transform: 'translate(-5px,-18px)' }} className={`${show ? 'd-flex' : 'd-none'} add-icon`}>
-                      <AiOutlineMinus />
+                      <AiOutlineMinus style={{transform:'translate(-20px,20px)'}}/>
                     </span>
                     <input type="number" value={count} style={{ width: 50 }} className={show ? 'd-flex' : 'd-none'} />
                     <button className={`${!show ? 'd-flex' : 'd-none'} btn btn-add-cart addcart-button`} onClick={addToBasket}>
                       Add
                     </button>
                     <span onClick={incrementCount} style={{ transform: 'translate(-5px,-18px)' }} className="add-icon">
-                      <AiOutlinePlus />
+                      <AiOutlinePlus style={{transform:'translate(-20px,20px)'}}/>
                     </span>
                     <div className="cart_qty qty-box">
                       <div className="input-group">

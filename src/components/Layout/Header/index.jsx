@@ -15,6 +15,7 @@ import { AiOutlineRight } from 'react-icons/ai'
 import { FiZap } from 'react-icons/fi'
 
 import Dropdown from '../../Drowpdown'
+import DropDownUsd from '../../DropDownUsd'
 import { CiLocationOn } from 'react-icons/ci'
 import { BsChevronDown } from 'react-icons/bs'
 import AntDropdownHome from "../../AntDropdownHome";
@@ -25,6 +26,7 @@ import AntDropdownSeller from '../../AntDropdownSeller'
 import AntDropdownPages from '../../AntDropdownPages'
 import { useState } from "react";
 import LocationModal from "../../LocationModal";
+
 export default function Header() {
     const [gorunen, setGorunen] = useState(false);
     const handleClose = () => setGorunen(false);
@@ -75,51 +77,7 @@ export default function Header() {
                             <div className="col-lg-3">
                                 <ul className="about-list right-nav-about">
                                     <Dropdown />
-                                    <li className="right-nav-list">
-                                        <div className="dropdown theme-form-select">
-                                            <button
-                                                className="btn dropdown-toggle"
-                                                type="button"
-                                                id="select-dollar"
-                                                data-bs-toggle="dropdown"
-                                                aria-expanded="false"
-                                            >
-                                                <span>USD</span>
-                                            </button>
-                                            <ul
-                                                className="dropdown-menu dropdown-menu-end sm-dropdown-menu"
-                                                aria-labelledby="select-dollar"
-                                            >
-                                                <li>
-                                                    <NavLink
-                                                        className="dropdown-item"
-                                                        id="aud"
-                                                        to="#"
-                                                    >
-                                                        AUD
-                                                    </NavLink>
-                                                </li>
-                                                <li>
-                                                    <NavLink
-                                                        className="dropdown-item"
-                                                        id="eur"
-                                                        to="#"
-                                                    >
-                                                        EUR
-                                                    </NavLink>
-                                                </li>
-                                                <li>
-                                                    <NavLink
-                                                        className="dropdown-item"
-                                                        id="cny"
-                                                        to="#"
-                                                    >
-                                                        CNY
-                                                    </NavLink>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </li>
+                                    <DropDownUsd/>
                                 </ul>
                             </div>
                         </div>
@@ -147,6 +105,7 @@ export default function Header() {
                                             alt=""
                                         />
                                     </NavLink>
+                                    
                                      <LocationModal gorunen={gorunen} handleClose={handleClose} />
                                     <div className="middle-box">
                                         <div className="location-box">
